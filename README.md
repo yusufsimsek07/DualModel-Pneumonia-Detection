@@ -38,12 +38,6 @@ DualModel-Pneumonia-Detection/
 
 ## 🚀 Nasıl Çalıştırılır?
 
-### PyCharm ile (En Kolay Yol):
-1. PyCharm'da projeyi aç
-2. Sol taraftan `main.py` dosyasına çift tıkla
-3. Üst menüden **Run → Run 'main.py'** seçeneğine tıkla (veya **Ctrl+Shift+F10** / **⌃⇧R**)
-4. Alt taraftaki **Run** penceresinde eğitim ilerlemesini canlı takip edebilirsin
-
 ### Terminal ile:
 ```bash
 cd /Users/yusuf/PycharmProjects/DualModel-Pneumonia-Detection
